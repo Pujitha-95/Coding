@@ -4,7 +4,7 @@ public class Array {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int a[]= {3, 5, 1, 3, 2, 2};
+		int a[]= {3, 5, 1, 3, 2, 2,10};
 		int length = a.length;
 
 		
